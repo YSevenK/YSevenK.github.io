@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>blog</title>
+    <title>YSevenK&#x27;s Blog</title>
     <link href="https://YSevenK.github.io/feed.xml" rel="self" />
     <link href="https://YSevenK.github.io" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2025-07-14T14:25:21+08:00</updated>
     <author>
         <name>YSevenK</name>
     </author>
     <id>https://YSevenK.github.io</id>
 
+    <entry>
+        <title>测试</title>
+        <author>
+            <name>YSevenK</name>
+        </author>
+        <link href="https://YSevenK.github.io/ce-shi-2.html"/>
+        <id>https://YSevenK.github.io/ce-shi-2.html</id>
+
+        <updated>2025-07-14T14:25:21+08:00</updated>
+            <summary>
+                <![CDATA[
+                    测试
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>测试</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
