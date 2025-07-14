@@ -3,10 +3,30 @@
     <title>blog</title>
     <link href="https://YSevenK.github.io/feed.xml" rel="self" />
     <link href="https://YSevenK.github.io" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2025-07-14T13:17:41+08:00</updated>
     <author>
         <name>YSevenK</name>
     </author>
     <id>https://YSevenK.github.io</id>
 
+    <entry>
+        <title>测试</title>
+        <author>
+            <name>YSevenK</name>
+        </author>
+        <link href="https://YSevenK.github.io/ce-shi.html"/>
+        <id>https://YSevenK.github.io/ce-shi.html</id>
+
+        <updated>2025-07-14T13:17:18+08:00</updated>
+            <summary>
+                <![CDATA[
+                    测试文章
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>测试文章</p>
+            ]]>
+        </content>
+    </entry>
 </feed>

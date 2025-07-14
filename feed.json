@@ -9,5 +9,19 @@
         "name": "YSevenK"
     },
     "items": [
+        {
+            "id": "https://YSevenK.github.io/ce-shi.html",
+            "url": "https://YSevenK.github.io/ce-shi.html",
+            "title": "测试",
+            "summary": "测试文章",
+            "content_html": "<p>测试文章</p>",
+            "author": {
+                "name": "YSevenK"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-07-14T13:17:18+08:00",
+            "date_modified": "2025-07-14T13:17:41+08:00"
+        }
     ]
 }
