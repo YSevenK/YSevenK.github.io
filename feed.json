@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://YSevenK.github.io/ce-shi-tu.html",
+            "url": "https://YSevenK.github.io/ce-shi-tu.html",
+            "title": "测试-图",
+            "summary": "测试图",
+            "content_html": "<p>测试图</p>",
+            "image": "https://YSevenK.github.io/media/posts/3/CR4.jpg",
+            "author": {
+                "name": "YSevenK"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-07-14T14:31:13+08:00",
+            "date_modified": "2025-07-14T14:31:13+08:00"
+        },
+        {
             "id": "https://YSevenK.github.io/ce-shi-2.html",
             "url": "https://YSevenK.github.io/ce-shi-2.html",
             "title": "测试",

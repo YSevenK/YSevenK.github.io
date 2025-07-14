@@ -3,12 +3,35 @@
     <title>YSevenK&#x27;s Blog</title>
     <link href="https://YSevenK.github.io/feed.xml" rel="self" />
     <link href="https://YSevenK.github.io" />
-    <updated>2025-07-14T14:25:21+08:00</updated>
+    <updated>2025-07-14T14:31:13+08:00</updated>
     <author>
         <name>YSevenK</name>
     </author>
     <id>https://YSevenK.github.io</id>
 
+    <entry>
+        <title>测试-图</title>
+        <author>
+            <name>YSevenK</name>
+        </author>
+        <link href="https://YSevenK.github.io/ce-shi-tu.html"/>
+        <id>https://YSevenK.github.io/ce-shi-tu.html</id>
+        <media:content url="https://YSevenK.github.io/media/posts/3/CR4.jpg" medium="image" />
+
+        <updated>2025-07-14T14:31:13+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://YSevenK.github.io/media/posts/3/CR4.jpg" alt="" />
+                    测试图
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://YSevenK.github.io/media/posts/3/CR4.jpg" class="type:primaryImage" alt="" /></p>
+                <p>测试图</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>测试</title>
         <author>
